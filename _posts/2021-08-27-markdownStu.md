@@ -2,7 +2,7 @@
 layout: post
 title: "markdown初学"
 description: "初学笔记"
-tag: markdown
+tag: GoLang
 ---   
 
 ## 标题
