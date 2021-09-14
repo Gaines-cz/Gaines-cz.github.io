@@ -393,7 +393,6 @@ func main(){
 func add(a,b int) int{
 	return a+b
 }
-
 ```
 ### 可变参数
 参数数量可变的函数称为为可变参数函数。
